@@ -33,7 +33,7 @@
 
 ###
 
-<img align="right" height="200" margin-left="2%" src="https://media1.tenor.com/m/xT3tgwgtszoAAAAd/gato-codigo-morse.gif"  />
+<img align="right" height="200" margin-left="5px" src="https://media1.tenor.com/m/xT3tgwgtszoAAAAd/gato-codigo-morse.gif"  />
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<img align="left" height="200" src="https://media1.tenor.com/m/SsXEN-yHFqgAAAAd/exploding-car-explode.gif"  />
+<img align="left" height="200" margin-right="5px" src="https://media1.tenor.com/m/SsXEN-yHFqgAAAAd/exploding-car-explode.gif"  />
 
 ###
 
