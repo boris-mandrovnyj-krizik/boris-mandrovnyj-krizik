@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Boris Mandrovnyj and I'm a student, from Střední průmyslová škola elektrotechnická Františka Křižíka</h2>
 
 ###
 
@@ -70,5 +70,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/boris-mandrovnyj-krizik/count.svg?"  />
 </div>
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6wugpbkwixmt5m2r1utq129o1)
 ###
