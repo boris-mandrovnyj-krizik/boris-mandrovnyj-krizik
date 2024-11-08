@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="36" alt="blender logo"  />
   <br>
   <img width="2" />
-  <a href="https://mail.google.com/mail/u/?authuser=boris.mandrovnyj@skolakrizik.cz" target="_blank">
+  <a href="https://mail.google.com/mail/u/?authuser=boris.mandrovnyj@skolakrizik.cz">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
   </a>
   <img width="2" />
