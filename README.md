@@ -35,11 +35,11 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
   </a>
   <img width="2" />
-  <a href="https://discord.com/users/452020360477409291" target="_blank">
+  <a href="https://discord.com/users/452020360477409291">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="discord logo"  />
   </a>
   <img width="2" />
-  <a href="https://www.instagram.com/_boris_man/" target="_blank">
+  <a href="https://www.instagram.com/_boris_man/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="instagram logo"  />
   </a>
 </div>
