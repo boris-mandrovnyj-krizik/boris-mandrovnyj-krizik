@@ -33,7 +33,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.tenor.com/m/xT3tgwgtszoAAAAd/gato-codigo-morse.gif"  />
+<img align="right" height="200" src="https://media1.tenor.com/m/xT3tgwgtszoAAAAd/gato-codigo-morse.gif maring-left: 2%"  />
 
 ###
 
