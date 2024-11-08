@@ -1,11 +1,7 @@
 <h2 align="center">Hi 👋! My name is Boris Mandrovnyj and I'm a student, from Střední průmyslová škola elektrotechnická Františka Křižíka</h2>
 
 ###
-<style>
-  a {
-  text-decoration: none; /* no underline */
-}
-</style>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boris-mandrovnyj-krizik&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&custom_title=My%20statistics" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boris-mandrovnyj-krizik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=vue&hide_border=false" height="150" alt="languages graph"  />
@@ -34,15 +30,15 @@
   <img width="2" />
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="36" alt="blender logo"  />
   <br>
-    <a href="https://www.instagram.com/_boris_man/" target="blank">
+    <a href="https://www.instagram.com/_boris_man/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/users/452020360477409291" target="blank">
+  <a href="https://discord.com/users/452020360477409291" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/?authuser=boris.mandrovnyj@skolakrizik.cz" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <a href="https://mail.google.com/mail/u/?authuser=boris.mandrovnyj@skolakrizik.cz" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"></a>
+
+
 </div>
 
 ###
