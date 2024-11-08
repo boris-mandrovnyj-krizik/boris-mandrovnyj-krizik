@@ -20,15 +20,18 @@
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="36" alt="cplusplus logo"  />
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="36" alt="photoshop logo"  />
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="36" alt="blender logo"  />
-  <a href="https://www.instagram.com/_boris_man" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo">
-  </a>
-  <a href="https://discord.com/users/452020360477409291" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo">
-  </a>
-  <a href="https://mail.google.com/mail/u/?authuser=boris.mandrovnyj@skolakrizik.cz" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo">
-  </a>
+  <br>
+    <div align="center">
+      <a text-decoration="none" href="https://discord.com/users/452020360477409291" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  text-decoration="none"/>
+      </a>
+      <a text-decoration="none" href="https://www.instagram.com/_boris_man" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  text-decoration="none"/>
+      </a>
+      <a text-decoration="none" href="https://mail.google.com/mail/u/?authuser=boris.mandrovnyj@skolakrizik.cz" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  text-decoration="none"/>
+      </a>
+    </div>
 </div>
 
 ###
