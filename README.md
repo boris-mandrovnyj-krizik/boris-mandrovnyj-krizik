@@ -55,25 +55,21 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/boris-mandrovnyj-krizik/boris-mandrovnyj-krizik/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/Boris">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Boris&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
-###
+### GLITCH counter of visits
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/boris-mandrovnyj-krizik/count.svg?"  />
 </div>
 
-###
+### SPotify Last played
 
-[Spotify](https://spotify-recently-played-readme.vercel.app/api?user=6wugpbkwixmt5m2r1utq129o1)
+(https://spotify-recently-played-readme.vercel.app/api?user=6wugpbkwixmt5m2r1utq129o1)
 
 ###
 
