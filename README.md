@@ -70,5 +70,10 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/boris-mandrovnyj-krizik/count.svg?"  />
 </div>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6wugpbkwixmt5m2r1utq129o1)
+
 ###
+
+[Spotify](https://spotify-recently-played-readme.vercel.app/api?user=6wugpbkwixmt5m2r1utq129o1)
+
+###
+
