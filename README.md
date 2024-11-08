@@ -1,13 +1,12 @@
 <h2 align="center">Hi 👋! My name is Boris Mandrovnyj and I'm a student, from Střední průmyslová škola elektrotechnická Františka Křižíka</h2>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boris-mandrovnyj-krizik&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&custom_title=My%20statistics" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boris-mandrovnyj-krizik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=vue&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
 <div align="center" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="36" alt="javascript logo"  />
@@ -20,7 +19,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="36" alt="cplusplus logo"  />
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="36" alt="photoshop logo"  />
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="36" alt="blender logo"  />
-  <br>
+    <br><br>
     <div align="center">
       <a text-decoration="none" href="https://discord.com/users/452020360477409291" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  text-decoration="none"/>
@@ -33,6 +32,8 @@
       </a>
     </div>
 </div>
+
+---
 
 ###
 
